@@ -57,7 +57,7 @@ export default () => {
 
       <footer>
         Felto com muito ❤ pela B7Web<span role="img" aria-label="coração"></span><br />
-        Direiros de imagem para NETFLIX <br />
+        Direitos de imagem para NETFLIX <br />
         Dados disponibilizados pelo site: themoviedb.org
       </footer>
       {movieList.length <= 0 &&
