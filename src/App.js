@@ -56,9 +56,9 @@ export default () => {
       </section>
 
       <footer>
-        Felto com muito Sofrimento e esforço !<span role="img" aria-label="coração"></span><br />
-        Direiros de Imagem para NetFlix <br />
-        Dados pegos do Site themoviedb.org
+        Felto com muito ❤ pela B7Web<span role="img" aria-label="coração"></span><br />
+        Direiros de imagem para NETFLIX <br />
+        Dados disponibilizados pelo site: themoviedb.org
       </footer>
       {movieList.length <= 0 &&
         <div className="loading">
